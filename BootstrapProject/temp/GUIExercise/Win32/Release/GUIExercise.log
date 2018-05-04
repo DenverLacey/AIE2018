@@ -1,0 +1,9 @@
+﻿  Background.cpp
+Background.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+  Enemy.cpp
+  GUIExerciseApp.cpp
+  main.cpp
+  Player.cpp
+LINK : fatal error C1047: The object or library file 'C:\Users\s181336\source\repos\GUIExercise\temp\GUIExercise\Win32\Release\Background.obj' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed
